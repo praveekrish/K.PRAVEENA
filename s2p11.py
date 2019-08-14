@@ -1,6 +1,6 @@
 #p
-day=input("")
-if day=="Saturday" or day=="Sunday":
+day = input("")
+if day == "Saturday" or day=="Sunday":
     print("yes")
 else:
     print("no")
